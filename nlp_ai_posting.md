@@ -8,6 +8,8 @@ The position is embedded in a research program that treats the world’s languag
 
 The position is planned for a period of 1 year with a possible extension subject to performance and funding. Ideal start date is during the second half of 2026.
 
+If interested, send a message with the header AI POSITION, your CV and a very brief motivational statement at damian.blasi[at]upf.edu
+
 ---
 
 ## Research Directions
