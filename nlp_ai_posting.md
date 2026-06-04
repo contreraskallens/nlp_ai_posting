@@ -1,8 +1,8 @@
-# NLP/AI Researcher — Linguistic Diversity & Foundation Models
+# NLP/AI Postdoctoral Researcher — Linguistic Diversity & Foundation Models
 
 ## Overview
 
-We are seeking an NLP/AI researcher to work at the intersection of linguistic diversity, human cognition, and foundation models.
+We are seeking an NLP/AI postdoctoral researcher to work at the intersection of linguistic diversity, human cognition, and foundation models.
 
 The position is embedded in a research program that treats the world’s languages as a large-scale natural experiment to probe and extend current AI systems. A central goal is to identify how structural variation across languages affects model behavior, generalization, and reasoning—both in humans and machines.
 
